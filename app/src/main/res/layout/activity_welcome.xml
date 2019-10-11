@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="16dp"
         android:background="@drawable/swoosh_button"
         android:text="@string/get_started"
         android:textColor="@android:color/white"

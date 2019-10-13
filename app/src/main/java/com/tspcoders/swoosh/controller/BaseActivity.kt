@@ -1,4 +1,4 @@
-package com.tspcoders.swoosh
+package com.tspcoders.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
